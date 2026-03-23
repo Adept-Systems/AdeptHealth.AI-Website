@@ -43,10 +43,10 @@ export function Footer() {
             <p>University of Maryland, College Park</p>
             <p>
               <a
-                href="mailto:rman7411@gmail.com"
+                href="mailto:contact@adeptsystems.ai"
                 className="underline underline-offset-4"
               >
-                rman7411@gmail.com
+                contact@adeptsystems.ai
               </a>
             </p>
           </div>

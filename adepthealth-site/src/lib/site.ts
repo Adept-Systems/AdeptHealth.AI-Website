@@ -1,7 +1,7 @@
 export const siteConfig = {
   companyName: "AdeptHealth.AI",
-  contactEmail: "contact@adepthealth.ai",
-  contactMailto: "mailto:contact@adepthealth.ai",
+  contactEmail: "contact@adeptsystems.ai",
+  contactMailto: "mailto:contact@adeptsystems.ai",
   navLinks: [
     { label: "Contact", href: "/#contact" },
   ],
